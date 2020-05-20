@@ -7,3 +7,4 @@ The aim of this project is to provide a flexible protocol and unified instrument
 
 Almost every paper presenting a new tool usually provides a comparison of the new program to some old ones. Such comparisons are often unfair. Authors thoughtfully tune the parameters of their own program but use the other tools with the default parameters. As a result, we usually have plenty of tools with no real information about their performance on real datasets. Although for some areas there are some benchmarking studies, they rapidly become outdated as soon as new tools and new datasets emerge. 
 
+Our first area of interest is the estimation of allelic disbalance from RNA-seq data. Some preliminary results of this work one may find in the corresponding folder.
